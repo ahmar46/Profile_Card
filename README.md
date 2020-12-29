@@ -1,4 +1,4 @@
-### This is a basic web profile card made for blog.
+### This is a basic profile card made for blog.
 
 ### Technologies Used: HTML, CSS, JavaScript.
 
